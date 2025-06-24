@@ -10,7 +10,7 @@ This project demonstrates how to create a basic sales summary by:
 --- 
 
 ## 📁 Project Structure
-
+ 
 ```
 sales_summary_project/
 │
