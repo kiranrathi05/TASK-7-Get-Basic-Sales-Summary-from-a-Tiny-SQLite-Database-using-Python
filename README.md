@@ -12,7 +12,7 @@ This project demonstrates how to create a basic sales summary by:
 ## 📁 Project Structure
  
 ```
-sales_summary_project/
+sales_summary_project/ 
 │
 ├── task7.py # Main script to create DB, run SQL, and plot results
 ├── sales_data.db # SQLite database (created at runtime)
