@@ -7,7 +7,7 @@ This project demonstrates how to create a basic sales summary by:
 - Loading data into a Pandas DataFrame  
 - Visualizing results using Matplotlib
 
---- 
+---  
 
 ## 📁 Project Structure
  
